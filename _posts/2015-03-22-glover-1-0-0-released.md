@@ -15,7 +15,7 @@ Main highlights of this release are:
   * fully compatible with *NSFetchedResultsController* (main context on main thread)
   * spawning additional background worker contexts for large data changes
 
-You can download the framework [here][glover-release]. File all bugs/feature requests at [Glover’s GitHub repo][glover-gh].
+You can download the framework [here][glover-release]{:target="_blank"}. File all bugs/feature requests at [Glover’s GitHub repo][glover-gh]{:target="_blank"}.
 
 [glover-release]: https://github.com/MobileToolkit/Glover-iOS/releases/tag/1.0.0
 [glover-gh]:      https://github.com/MobileToolkit/Glover-iOS/

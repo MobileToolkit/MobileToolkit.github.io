@@ -2,8 +2,8 @@
 title: Mobile Toolkit
 description: >
   Mobile Toolkit is a set of libraries that targets common complex development tasks. You can use those libs independently or as one fat library.
-baseurl: ""
-url: "http://mobiletoolkit.org"
+baseurl: ''
+url: 'http://mobiletoolkit.org'
 
 # Build settings
 markdown: kramdown
