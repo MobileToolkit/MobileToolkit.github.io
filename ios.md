@@ -2,6 +2,7 @@
 layout: page
 title: iOS
 permalink: /ios/
+published: false
 ---
 
 #Glover
